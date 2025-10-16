@@ -1,1 +1,1 @@
-# comandos-basicos
+# estrutura-sequencial
